@@ -52,15 +52,24 @@ A responsive frontend website for browsing pilgrimage tour packages across India
 </div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=keshavmaggo019-design&show_icons=true&theme=default" height="165"/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact" height="165"/>
-</p>
+# 🌸 Let's Connect
+
+[![GitHub]([![GitHub](https://img.shields.io/badge/GitHub-keshavmaggo019--design-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/keshavmaggo019-design))
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keshav-maggo-6b0852271/?skipRedirect=true)
 
 ---
 
-<p align="center">
-  <i>⭐️ From <a href="https://github.com/YOUR_GITHUB_USERNAME">YOUR_GITHUB_USERNAME</a></i>
-</p>
+## 💌 Find Me Around the Web
 
+**keshav maggo**
+
+**FULL STACK AI ENTHUSIAST**
+
+**NEW DELHI, INDIA**
+
+---
+
+# 💖 Thanks for Stopping By!
